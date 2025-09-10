@@ -2,7 +2,7 @@
 An interactive dashboard analyzing BMW sales performance across models, regions, fuel types, and years. The project highlights key insights by combining sales volume, revenue, and pricing trends into a visually compelling report.
 ________________________________________
 ### Dashboard
-![BMW Pics](https://github.com/user-attachments/assets/cbae1f6a-91b1-4058-8713-3ad3b2a9e6f3)
+![new bmw](https://github.com/user-attachments/assets/661c69e2-8ab0-4a2e-ad12-61dafc121332)
 
 ________________________________________
 ### 🎯 Project Aim
@@ -52,4 +52,4 @@ ________________________________________
 ### Dataset Used & Dashboard
 <a href="https://github.com/Gaggy-19/BMW-Sales-Dashboard/blob/main/BMW%20sales%20data%20(2010-2024).xlsx">Download BMWSalesData(2010-2024)</a>
 
-<a href="https://github.com/Gaggy-19/BMW-Sales-Dashboard/blob/main/BMW%20Pics.jpg">Download Dashboard Image</a>
+<a href="https://github.com/Gaggy-19/BMW-Sales-Dashboard/blob/main/new%20bmw.png">Download Dashboard Image</a>
