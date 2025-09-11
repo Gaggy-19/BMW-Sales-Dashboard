@@ -19,7 +19,7 @@ This project seeks to answer:
 ________________________________________
 ### 📊 Visuals Used
 The dashboard includes:
-###### •	KPIs / Cards: Total Sales Price, Avg Sales Revenue, Total Sales Volume, Total Models, Start Year, Max Year.
+###### •	KPIs / Cards: Total Sales Price, Avg Sales Revenue, Total Sales Volume, Total Models, Start Year, End Year.
 ###### •	Bar Chart: Total Sales Volume by Model.
 ###### •	Treemap: Total Sales Price by Model.
 ###### •	Donut Chart: Total Sales by Transmission (Automatic vs. Manual).
